@@ -2,8 +2,8 @@
 Changelog for package vdb2pc
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.1.0 (2025-02-13)
+------------------
 * improve package.xml
 * added libopenvdb-dev key to package.xml
 * fix wrong openvdb key in package.xml
