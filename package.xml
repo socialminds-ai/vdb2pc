@@ -10,6 +10,7 @@
   <buildtool_depend>ament_cmake_auto</buildtool_depend>
 
   <build_depend>libopenvdb-dev</build_depend>
+  <build_export_depend>libopenvdb-dev</build_export_depend>
 
   <exec_depend>libopenvdb8.2</exec_depend>
 
