@@ -20,8 +20,8 @@ ament_auto_add_library(${PROJECT_NAME}_lib SHARED
   src/vdb2pc_publisher.cpp
 )
 
-target_link_libraries(${PROJECT_NAME}_lib 
- ${OpenVDB_LIBRARIES} ${PCL_LIBRARIES})
+target_link_libraries(${PROJECT_NAME}_lib
+  ${OpenVDB_LIBRARIES} ${PCL_LIBRARIES})
 
 ament_export_include_directories(
   include
