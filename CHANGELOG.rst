@@ -2,6 +2,18 @@
 Changelog for package vdb2pc
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* it's linting over everything
+  Trailing spaces vanish,
+  Tabs and spaces reconciled—
+  Code breathes peacefully.
+* removed ETHICAL_STATEMENT and MAINTENANCE_NOTE
+* fix spacing in README
+* fixed linking
+* build_export libopenvdb-dev
+* Contributors: Lorenzo Ferrini, Séverin Lemaignan
+
 0.1.0 (2025-02-13)
 ------------------
 * improve package.xml
