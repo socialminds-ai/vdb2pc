@@ -2,8 +2,8 @@
 Changelog for package vdb2pc
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.2.0 (2025-06-26)
+------------------
 * it's linting over everything
   Trailing spaces vanish,
   Tabs and spaces reconciled—
