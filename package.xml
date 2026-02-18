@@ -12,7 +12,7 @@
   <build_depend>libopenvdb-dev</build_depend>
   <build_export_depend>libopenvdb-dev</build_export_depend>
 
-  <exec_depend>libopenvdb8.2</exec_depend>
+  <exec_depend>libopenvdb</exec_depend>
 
   <depend>rclcpp</depend>
   <depend>sensor_msgs</depend>
