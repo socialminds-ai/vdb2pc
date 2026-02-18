@@ -2,8 +2,8 @@
 Changelog for package vdb2pc
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.2.1 (2026-02-18)
+------------------
 * compat with jazzy
   - avoid CMake conflict with TBB
   - depend on libopenvdb instead of specific libopenvdb8.2
