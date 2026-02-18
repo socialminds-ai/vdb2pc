@@ -2,6 +2,14 @@
 Changelog for package vdb2pc
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* compat with jazzy
+  - avoid CMake conflict with TBB
+  - depend on libopenvdb instead of specific libopenvdb8.2
+  - USE_SCOPED_HEADERS
+* Contributors: Séverin Lemaignan
+
 0.2.0 (2025-06-26)
 ------------------
 * it's linting over everything
